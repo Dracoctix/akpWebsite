@@ -1,0 +1,54 @@
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+/*.headmenu {*/
+    /*text-decoration: underline;*/
+/*}*/
+
+/*ul {*/
+        /*margin-right: 25px;*/
+    /*}*/
+
+/*.headmenu {*/
+    /*margin-right: 1%;*/
+/*}*/
+
+h2 {
+    text-align: center;
+}
+
+td, th {
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    padding: 1px 5px;
+}
+
+/*th {*/
+    /*text-align: center;*/
+    /*!*border-style: solid;*!*/
+    /*!*border-width: 50%;*!*/
+/*}*/
+
+table {
+    border-style: solid;
+    border-width: 2px;
+    /*width: 75%;*/
+    border-collapse: collapse;
+}
+
+.radioLabel {
+    font-weight: bold;
+}
+
+/*noinspection ALL,CssUnusedSymbol*/
+
+.form-check-label {
+    font-weight: normal;
+}

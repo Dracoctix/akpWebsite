@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+.authform {
+    margin-left:  auto;
+    margin-right: auto;
+    width: 50%;
+    border-width: 2.5px;
+    border-radius: 10px;
+    border-style: solid;
+    padding-left: 5px;
+}
+
+.center {
+    text-align: center;
+}
+
+label {
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+}
+
+.logo {
+    width: 350px;
+}
+
+.content {
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+th, thead {
+    text-align: center;
+}
+
+.noOp {
+    text-align: center;
+}
+
+a:hover {
+    color: blue;
+}
+
+@font-face {
+    font-family: 'Urban Rivals';
+    src: url('fonts/urbanrivalsfont.eot');
+    src: local('x'),
+        url('fonts/urbanrivalsfont.woff2') format('woff2'),
+        url('fonts/urbanrivalsfont.woff') format('woff'),
+        url('fonts/urbanrivalsfont.ttf') format('truetype'),
+        url('fonts/urbanrivalsfont.svg#Urban_Rivals') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    font-family: "Open Sans Light";
+}
+
+h1, h2, h3 {
+    font-family: "Urban Rivals";
+}
+
+.post {
+    margin-top: 0;
+    margin-bottom: 0;
+    border-top: solid 3px;
+}
+
+.actions {
+    float: right;
+    padding: 2px;
+}
+
+.warnlogin {
+    margin-top: 1%;
+}
+
+.logLabel {
+    text-align: right;
+}
+
+.droite {
+    text-align: right;
+}
+
+.page-header {
+    padding-bottom: 9px;
+    margin: 40px 0 20px;
+    border-bottom: 1px solid #eee;
+}
+
+.table > tbody > tr > td {
+    vertical-align: middle;
+}
+
+.label-coche {
+    font-weight: normal;
+    padding-left: 5px;
+}
